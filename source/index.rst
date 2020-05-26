@@ -10,6 +10,7 @@ Welcome to bioinfo-man's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   contents
    tmp/tmp
 
 Indices and tables
